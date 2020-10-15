@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: Nunito;
+    src: url(../fonts/Nunito/Nunito-SemiBold.ttf);
+}
+
+body{
+    color: #fff;
+    background-color: #ebe2f5;
+}
+
+body, input, button, textarea{
+    font: 600 18px Nunito, sans-serif;
+}
+
+/* font-family: NunitoBold;
+    src: url(../fonts/Nunito/Nunito-Bold.ttf);
+
+    font-family: NunitoExtraBold;
+    src: url(../fonts/Nunito/Nunito-ExtraBold.ttf); */
